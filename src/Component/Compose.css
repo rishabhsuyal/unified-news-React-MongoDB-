@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+}
+.btn{
+    margin: 10px;
+    justify-content: center;
+}
+.sr{
+    margin-left: 35px;
+}
+.content{
+    margin: 2em;
+    width: 90%;
+    height: 15em;
+}
+.contentT{
+
+    margin: 2em;
+    width: 90%;
+    height: 4em;
+}
+::placeholder {
+    font-size: 2em;
+    padding: 10px;
+  }
+  .con1{
+      justify-content: center;
+      text-align: center;
+      align-items: center;
+  }

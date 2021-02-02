@@ -1,0 +1,23 @@
+*{
+   margin: 0px;
+}
+.onavbar{
+    background-color:#d4e2d4 ;
+    height: 100px;
+}
+.elements{
+
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    justify-content: space-evenly;
+
+}
+.item{
+    margin-top: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    border-radius: 20px;
+    color: black;
+    text-decoration: none;
+}
